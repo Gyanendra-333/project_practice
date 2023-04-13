@@ -34,5 +34,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "ag-grid-community": "^29.2.0",
+    "ag-grid-react": "^29.2.0"
   }
 }
